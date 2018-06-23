@@ -1,2 +1,0 @@
-webpackJsonp([0xc6c285f8fd10],{197:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(5),a=u(n),d=l(66),f=u(d);t.default=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Digging Deeper?"),a.default.createElement("p",null,"Yes, I am the 2nd page."),a.default.createElement(f.default,{to:"/"},"back home"))},e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-page-2-js-eed17e882bcba91285cc.js.map
