@@ -10,7 +10,8 @@ class Counter extends React.Component {
     return (
       <div>
         <h1>Counter</h1>
-        <p>current count: {this.state.count}</p>
+        <p>Press + or - to add 5 to the count.</p>
+        <p>Current count: {this.state.count}</p>
         <button onClick={() => this.setState({ count: this.state.count +
           1 * 5 })}>+</button>
         <button onClick={() => this.setState({ count: this.state.count -
